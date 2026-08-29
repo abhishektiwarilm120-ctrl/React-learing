@@ -1,0 +1,46 @@
+
+body{
+    background: black;
+}
+
+.btn{
+
+gap: 50px;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+.one{
+    margin-right: 100px;
+    margin-left: 50px;
+    color: white;
+    background: gray;
+    border: none;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+
+
+.two{
+
+    
+    color: white;
+    border: none;
+    background: gray;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.three{
+     
+    color: white;
+    border: none;
+    background: gray;
+    border-radius: 5px;
+    padding: 25px;
+    margin-left: 40px;
+}
+
