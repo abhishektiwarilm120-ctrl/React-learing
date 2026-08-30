@@ -1,0 +1,29 @@
+
+
+
+body{
+    background: black;
+}
+
+.btn{
+
+gap: 50px;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+.one{
+    margin-right: 100px;
+    margin-left: 50px;
+    color: white;
+    background: gray;
+    border: none;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+
+
+
