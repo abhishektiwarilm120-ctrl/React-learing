@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding:0;
+  color:whitesmoke;
+}
+
+body{
+  height:100%;
+  width:100%;
+  box-sizing:border-box;
+  background:black;
+}
+
+h1{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  font-size:100px;
+  text-decoration:underline;
+ 
+}
+
+.nav{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+padding:20px 40px;
+background: blueviolet;
+
+
+}
+
+
+
+.nav div{
+  display:flex;
+  align-items:center;
+  gap:50px;
+}
+
